@@ -1,0 +1,186 @@
+body {
+    font-family: Roboto;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+container {
+    overflow: auto;
+}
+
+h1,
+h2,
+h3 {
+    color: black;
+    color: #b92128;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    text-align: left;
+    line-height:20px;
+
+}
+
+input {
+    display: inline-block;
+    float: right;
+    align-self: center;
+    margin: 0.5px;
+    line-height:8px;
+    text-align: center;
+    clear: left;
+}
+
+div.left {
+    float: left;
+}
+
+div.devices {
+    width: 200px;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+div.presetsection {
+    width: 200px;
+    border: 3px solid black;
+    padding: 10px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+div.right {
+    overflow: hidden;
+}
+
+div.top {
+    border: 3px solid black;
+    padding: 10px;
+    width: 200px;
+}
+
+div.cc_cont {
+    float:left;
+    border: 3px solid black;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    overflow: auto;
+    
+}
+
+div.interface {
+    float:left;
+    width: 701px;
+    height: 502px;
+        margin-top: 20px;
+    margin-left: 20px;
+    background-color: white;
+    background: url(images/SFC_60_LAYOUT.png);
+}
+
+div.switches {
+    float: left;
+    margin-left:10px;
+}
+
+div.pots {
+    float: left;
+    margin-left:10px;
+}
+
+div.labelcol {
+    width: 220px;
+    float: left;
+        margin-bottom:10px;
+
+}
+
+div.inputcolumn {
+    width: 40px;
+    float: left;
+    text-align: center;
+    margin-right:10px;
+    
+    
+}
+
+div.fourthcolumn {
+    width: 180px;
+    float: left;
+}
+
+div.fifthcolumn {
+    width: 50px;
+    float: left;
+}
+
+div.rightcolumn {
+    width: 235px;
+    float: left;
+}
+
+
+
+textarea {
+    resize: none;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+li {
+    display: inline-block;
+}
+
+div {}
+
+#glide {
+    
+}
+.firstline {
+    
+}
+
+.input-padding {
+    width:5px;
+}
+
+.std-shift {
+ width: 40px;
+    float: left;
+    margin-right:10px;
+    text-align: center;
+    position:relative;
+    top: 5px;
+    left:50px;
+}
+
+.labelcol2 {
+      width: 175px;
+    float: left;  
+}
+
+.POSITIONS {
+        float: left;
+    margin-left:10px;
+}
+
+.logo {
+    width:1016px;
+    text-align: center;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    padding-top: 5px;
+
+}
+
